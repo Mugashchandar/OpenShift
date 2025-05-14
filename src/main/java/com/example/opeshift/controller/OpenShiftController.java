@@ -14,7 +14,7 @@ public class OpenShiftController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from Mugashchandar and Akshymathi!";
+        return "Hello World!";
     }
 
 }
